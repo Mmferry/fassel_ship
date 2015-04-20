@@ -1,0 +1,30 @@
+body{
+	direction: rtl;
+}
+div[clASS^="col"],
+.navbar-nav>li,
+.logo-style h1,
+.menu span
+{
+	float: right !important;
+}
+.logo-style{
+	padding-right: 0px;
+}
+.logo-style img{
+	float: right;
+	padding-left: 10px;
+}
+.menu span{
+	margin-left: 10px;
+}
+
+.bgourship p{
+	margin-left: 60px;
+}
+.our-news h4{
+	padding-left: 50px;
+}
+.bg-copyrights p{
+	padding-right: 106px;
+}
